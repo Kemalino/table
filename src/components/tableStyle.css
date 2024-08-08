@@ -1,0 +1,21 @@
+th,
+td {
+  padding: 16px;
+}
+table {
+  border: 1px solid lightgray;
+  font-family: sans-serif;
+  text-align: left;
+  border-collapse: collapse;
+  border-radius: 5px 5px 0px 0px;
+}
+thead tr {
+  border-radius: 5px 5px 0px 0px;
+  border: 1px solid lightgray;
+}
+th {
+  border: 1px solid lightgray;
+}
+tbody tr {
+  border: 1px solid lightgray;
+}
